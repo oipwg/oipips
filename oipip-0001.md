@@ -157,7 +157,7 @@ There are three kinds of OIPIP:
 
 The typical paths of the status of OIPIPs are as follows:
 
-[![img](https://github.com/oipwg/oipips/raw/master/bip-0001/process.png)](https://github.com/bitcoin/bips/blob/master/bip-0002/process.png)
+![img](https://raw.githubusercontent.com/oipwg/oipips/master/oipip-0001/process.png)
 
 Champions of a OIPIP may decide on their own to change the status between Draft, Deferred, or Withdrawn. The OIPIP editor may also change the status to Deferred when no progress is being made on the OIPIP.
 
