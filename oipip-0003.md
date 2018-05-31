@@ -64,14 +64,10 @@ Using this new method to derive addresses, we can cut down the data required dow
     storage: {
         files: [{
             ...
-            payment: {
-                bip44i: 2
-            }
+            bip44i: 2
         },{
            	...
-            payment: {
-                bip44i: 3
-            }
+            bip44i: 3
         }]
     }
 }
