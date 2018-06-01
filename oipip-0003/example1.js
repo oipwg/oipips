@@ -25,7 +25,8 @@ const networks = {
 	}
 }
 
-var root = bip32.fromSeed(Buffer.from('dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd', 'hex'), networks.flo.testnet);
+var seed = Buffer.from('dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd', 'hex');
+var root = bip32.fromSeed(seed, networks.flo.testnet);
 
 // Flo Coin index = 216 (pending...)
 // Account #1 because Publishers use Account #1
