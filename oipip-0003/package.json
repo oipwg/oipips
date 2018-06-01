@@ -1,0 +1,15 @@
+{
+  "name": "oipip-0003",
+  "version": "1.0.0",
+  "description": "OIP Payment Address Derivation using BIP-44 xPubKeys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sky Young <sky@alexandria.io>",
+  "license": "MIT",
+  "dependencies": {
+    "bip32": "^0.1.0",
+    "bitcoinjs-lib": "^3.3.2"
+  }
+}
