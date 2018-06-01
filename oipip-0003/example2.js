@@ -26,12 +26,12 @@ const networks = {
 	}
 }
 
-var xpub = "Fput3Ymftc99Zn3C98peUDAXWMJhZHyWZzfR2ezMrEQXFfckDBRSVjkQg5DLUKsJHYEcASQh6P2hwajx5AKa7aZYXF8SPqAP5ZNK9HTv26brTQ5";
-var node = bip32.fromBase58(xpub, networks.flo.testnet)
+var xpub = "Fpub1EJ8rsvUdWujAHK6s5bgr7QXWx3fZT9qF4br8a8joKzaxGQQYAZ8PPYXmursU1gzy395J97dKrWkjHkS1dTWXjBGstZLgBCRR1xKS8dtr8r";
+var node = bip32.fromBase58(xpub, networks.flo.livenet)
 
 var index = 1;
 var child = node.derive(index)
 
-var publicAddress = bitcoin.address.toBase58Check(bitcoin.crypto.hash160(child.publicKey), networks.flo.testnet.pubKeyHash)
+var publicAddress = bitcoin.address.toBase58Check(bitcoin.crypto.hash160(child.publicKey), networks.flo.livenet.pubKeyHash)
 
 console.log(publicAddress);
