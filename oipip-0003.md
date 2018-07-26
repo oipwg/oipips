@@ -91,11 +91,11 @@ To support this new method of deriving addresses, we add extended public keys fo
         ...    
     },
     payment: {
-        bip44: [{
-            btc: "xpub6CcVgN3WrfQEdWyFJNy1VAsc9qVsGmYC2PfbRS4KNo7DGoYj6stQpriKyN5spPbDUYUnAdyTk4SdiCJn7ZB8UZ7UcRPtmRU3Q9cndmBhRjT"},
-            {ltc: "Ltub2YHY9o7PuL73T1Yg3WsVrNe1QSyvdQBUrQv9FCsxUmhQV7EpVyzHw19FhhC4y26xgm1SB6NUhmvn6ixpzyLqWuMHnXQq3zGFitFoAZfTn7z"},
-            {flo: "Fpub1EJ8rsvUdWujAHK6s5bgr7QXWx3fZT9qF4br8a8joKzaxGQQYAZ8PPYXmursU1gzy395J97dKrWkjHkS1dTWXjBGstZLgBCRR1xKS8dtr8r"
-        }]
+        bip44: {
+            btc: "xpub6CcVgN3WrfQEdWyFJNy1VAsc9qVsGmYC2PfbRS4KNo7DGoYj6stQpriKyN5spPbDUYUnAdyTk4SdiCJn7ZB8UZ7UcRPtmRU3Q9cndmBhRjT",
+            ltc: "Ltub2YHY9o7PuL73T1Yg3WsVrNe1QSyvdQBUrQv9FCsxUmhQV7EpVyzHw19FhhC4y26xgm1SB6NUhmvn6ixpzyLqWuMHnXQq3zGFitFoAZfTn7z",
+            flo: "Fpub1EJ8rsvUdWujAHK6s5bgr7QXWx3fZT9qF4br8a8joKzaxGQQYAZ8PPYXmursU1gzy395J97dKrWkjHkS1dTWXjBGstZLgBCRR1xKS8dtr8r"
+        }
     }
 }
 ```
