@@ -22,30 +22,30 @@ In order to track individual file performance and tips using the old payment add
     ...,
     payment: {
         ...,
-        addresses: {
-            btc: "172vsNxg8jqu5MTw4bj6N53eyjEbUu83t2",
-            ltc: "LLMRAtr3qBje2ySEa3CnZ55LA4TQMWnRY3",
-            flo: "FQ5VFz73Ncw9chozAApnhppCpKhhYMX9vP"
-        }
+        addresses: [
+            { btc: "172vsNxg8jqu5MTw4bj6N53eyjEbUu83t2" },
+            { ltc: "LLMRAtr3qBje2ySEa3CnZ55LA4TQMWnRY3" },
+            { flo: "FQ5VFz73Ncw9chozAApnhppCpKhhYMX9vP" }
+        ]
     },
     storage: {
         files: [{
             ...,
             payment: {
-                addresses: {
-                    btc: "19HuaNprtc8MpG6bmiPoZigjaEu9xccxps",
-                    ltc: "LbpjYYPwYBjoPQ44PrNZr7nTq7HkYgcoXN",
-                    flo: "F6esyn5opgUDcEdJpujxS9WLfu8Zj9XUZQ"
-                }
+                addresses: [
+                    { btc: "19HuaNprtc8MpG6bmiPoZigjaEu9xccxps" },
+                    { ltc: "LbpjYYPwYBjoPQ44PrNZr7nTq7HkYgcoXN" },
+                    { flo: "F6esyn5opgUDcEdJpujxS9WLfu8Zj9XUZQ" }
+                ]
             }
         },{
             ...,
             payment: {
-                addresses: {
-                    btc: "1NxaBCFQwejSZbQfWcYNwgqML5wWoE3rK4",
-                    ltc: "LPVPJuwctf3PNjpzt2G48rCFqvYwstXJ3z",
-                    flo: "FCjgQ2N5oiptKEXMGT1xMMteG7X2kyRDgq"
-                }
+                addresses: [
+                    { btc: "1NxaBCFQwejSZbQfWcYNwgqML5wWoE3rK4" },
+                    { ltc: "LPVPJuwctf3PNjpzt2G48rCFqvYwstXJ3z" },
+                    { flo: "FCjgQ2N5oiptKEXMGT1xMMteG7X2kyRDgq" }
+                ]
             }
         }]
     }
