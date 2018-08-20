@@ -53,7 +53,7 @@ The only argument that I forsee *against* the use of `Record` is that it could b
 
 > I published my record using OIP.
 
-Is that referent to the music record (aka Album) or to the OIP Object? However, I am inclined to think that this can be mitigated in articles or speech by changing the word "record" to "album" with no loss of information. This is impossible in the conundrum related to `artifact` and `mistake`.
+Is that referent to the music record (aka Album) or to the OIP Object? However, I am inclined to think that this can be mitigated in articles or speech by changing the word "record" to "album" with no loss of clarity. This is impossible in the conundrum related to `Artifact` and *mistake*.
 
 
 ## Actions
