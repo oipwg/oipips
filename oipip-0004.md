@@ -1,4 +1,4 @@
-# OIPIP-0004 : Change from artifact to record
+# OIPIP-0004 : Change name of OIP Object from artifact to record
 
 ```
 Number:  OIPIP-0004
