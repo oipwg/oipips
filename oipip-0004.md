@@ -15,7 +15,17 @@ This OIPIP proposes to change the name of the data JSON Object in OIP from `Arti
 
 ## Motivation
 
-Artifact can be misinterpreted. The second definition in the Merriam-Webster dictionary is:
+The general name for an OIP Object is `Artifact`.
+
+Ryan Taylor contributed with some history about the choice:
+
+>The term comes from communications/media branch of academia and social sciences in which a cultural/social artifact is defined as anything created by humans which gives information about the culture of its creator and users. This includes songs, television episodes, movies, books, etc.
+>A couple of sources:
+>https://ivyroseroberts.wordpress.com/2015/08/22/what-is-a-media-artifact/
+>https://en.wikipedia.org/wiki/Cultural_artifact
+
+
+However, `Artifact` can be misinterpreted. The second definition in the Merriam-Webster dictionary is:
 
 ```
 2.a : a product of artificial character (as in a scientific test) due usually to extraneous (such as human) agency
