@@ -3,7 +3,7 @@
 ```
 Number:  OIPIP-0004
 Title:   Change name of OIP Object from Artifact to Record
-Type:    Standard
+Type:    Standards Track
 Status:  Draft
 Authors: Davi Ortega <davi.ortega@pm.me>
 Created: 2018-08-20
