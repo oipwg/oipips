@@ -80,14 +80,13 @@ If, for example, a music Artist released a statement explaining that they "publi
 
 I propose that the possible ambiguity with musical records is, however, less detrimental than confusing `Artifact` with a data *defect*. 
 
+## Backwards Compatibility
 
+All OIP Objects published before the change in name from `Artifact` to `Record` should still be accepted as valid. 
 
-## Actions
+After this OIPIP has changed Status to Active, then OIP Objects published with the "Artifact" name should *not* be seen as valid.
 
-- [ ] Change all mentions from `Artifact` to `Record` in OIP softwares.  
-- [ ] Change all mentions from `Artifact` to `Record` in OIP documentation.  
-- [ ] Change all mentions from `Artifact` to `Record` in OIP-related press articles in preparation.  
-- [ ] Make official announcement.  
+All Frontends will need to update the Client modules used to retrieve data from OIP.
 
 ## References
 
