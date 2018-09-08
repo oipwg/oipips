@@ -9,6 +9,7 @@ Each OIPIP should provide a concise technical specification of the feature and a
 | [OIPIP-0000](oipip-0000.md) | OIPIP Template                                   | Informational | Draft  |
 | [OIPIP-0001](oipip-0001.md) | OIPIP Purpose and Guidelines                     | Standard      | Draft  |
 | [OIPIP-0003](oipip-0003.md) | Payment Address Derivation using BIP-44 xPubKeys | Standard      | Draft  |
+| [OIPIP-0004](oipip-0004.md) | Change name of OIP Object from artifact to record| Standard      | Draft  |
 
 ---
 
