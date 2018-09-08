@@ -23,7 +23,7 @@ The term `Record` is much less ambiguous, and thus we were motivated to choose t
 
 ## Rationale
 
-The word "Artifact" was [initially selected because of the following definition](https://github.com/oipwg/oipips/pull/3#issuecomment-414626885):
+The word "Artifact" was [initially selected because of the following definition](https://web.archive.org/web/20180908023850/https://github.com/oipwg/oipips/pull/3#issuecomment-414626885):
 
 >The term comes from communications/media branch of academia and social sciences in which a cultural/social artifact is defined as anything created by humans which gives information about the culture of its creator and users. This includes songs, television episodes, movies, books, etc.
 >A couple of sources:
